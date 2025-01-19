@@ -95,11 +95,11 @@ console.log(instructor);
 
 //api &json
 
-{
-    "name": "hitesh",
-    "coursename": "js in hindi",
-    "price": "free"
-}
+// {
+//     "name": "hitesh",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
 
 [
     {},
